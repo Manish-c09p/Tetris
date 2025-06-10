@@ -1,6 +1,7 @@
 C:\IDK\Tetris\block.cpp;C:\IDK\Tetris\Tetris\x64\Debug\block.obj
 C:\IDK\Tetris\colors.cpp;C:\IDK\Tetris\Tetris\x64\Debug\colors.obj
 C:\IDK\Tetris\diffBlocks.cpp;C:\IDK\Tetris\Tetris\x64\Debug\diffBlocks.obj
+C:\IDK\Tetris\game.cpp;C:\IDK\Tetris\Tetris\x64\Debug\game.obj
 C:\IDK\Tetris\grid.cpp;C:\IDK\Tetris\Tetris\x64\Debug\grid.obj
 C:\IDK\Tetris\main.cpp;C:\IDK\Tetris\Tetris\x64\Debug\main.obj
 C:\IDK\Tetris\position.cpp;C:\IDK\Tetris\Tetris\x64\Debug\position.obj

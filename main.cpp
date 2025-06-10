@@ -1,6 +1,5 @@
 #include <raylib.h>
-#include "grid.h"
-#include "diffBlocks.cpp"
+#include "game.h"
 
 int main() {
 
@@ -11,19 +10,15 @@ int main() {
 	SetTargetFPS(60);
 	Color background = { 44, 44, 127, 255 };
 
-	Grid grid = Grid();
-
-	grid.print();
-
-	Iblock block = Iblock();
+	Game game = Game();
 
 	while (!WindowShouldClose()) {
 
+		game.Controls();
 		BeginDrawing();
 
 		ClearBackground(background);
-		grid.draw();
-		block.Draw();
+		game.Draw();
 
 		EndDrawing();
 	}
