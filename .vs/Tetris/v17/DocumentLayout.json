@@ -50,36 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\IDK\\Tetris\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\IDK\\Tetris\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T05:34:01.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "grid.h",
-              "DocumentMoniker": "C:\\IDK\\Tetris\\grid.h",
-              "RelativeDocumentMoniker": "grid.h",
-              "ToolTip": "C:\\IDK\\Tetris\\grid.h",
-              "RelativeToolTip": "grid.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-05T07:53:03.256Z"
             },
             {
               "$type": "Document",
@@ -91,8 +66,7 @@
               "RelativeToolTip": "grid.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-05T07:56:35.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T07:56:35.269Z"
             },
             {
               "$type": "Document",
@@ -140,8 +114,7 @@
               "RelativeToolTip": "block.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-06T05:56:56.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T05:56:56.868Z"
             },
             {
               "$type": "Document",
@@ -153,8 +126,7 @@
               "RelativeToolTip": "diffBlocks.cpp",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-06T06:01:00.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T06:01:00.833Z"
             },
             {
               "$type": "Document",
@@ -166,8 +138,7 @@
               "RelativeToolTip": "game.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-08T07:32:37.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T07:32:37.755Z"
             },
             {
               "$type": "Document",
@@ -181,6 +152,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-08T07:36:57.804Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "grid.h",
+              "DocumentMoniker": "C:\\IDK\\Tetris\\grid.h",
+              "RelativeDocumentMoniker": "grid.h",
+              "ToolTip": "C:\\IDK\\Tetris\\grid.h",
+              "RelativeToolTip": "grid.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-05T07:53:03.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\IDK\\Tetris\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\IDK\\Tetris\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T05:34:01.692Z"
             }
           ]
         }

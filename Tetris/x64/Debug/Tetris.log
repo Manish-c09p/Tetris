@@ -1,4 +1,7 @@
-﻿  main.cpp
+﻿  game.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\IDK\Tetris\x64\Debug\Tetris.exe not found or not built by the last incremental link; performing full link
   Tetris.vcxproj -> C:\IDK\Tetris\x64\Debug\Tetris.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
